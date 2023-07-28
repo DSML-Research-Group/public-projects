@@ -21,7 +21,9 @@ Current projects that have been submitted are the following:
 
 Name | Brief Description | Type | Link
  --- | --- | --- | --- 
-Crypto Business Cycle | Measure cyclical activity in blockchain data and determine existence of business cycle and its empirical impacts | Empirical | [Repo](www.dsmlresearch.org)
+Crypto Business Cycle | Measure cyclical activity in blockchain data and determine existence of business cycle and its empirical impacts | Empirical | [Issue](https://github.com/DSML-Research-Group/public-projects/issues/1)
+Crime Visualization | Study the geo-spatial characteristics of crime & policing | Empirical, Visualization | [Issue](https://github.com/DSML-Research-Group/public-projects/issues/3)
+Time Series Ensembles | Develop new technique for improving time series models via ensembling | Empirical, Software | [Issue](https://github.com/DSML-Research-Group/public-projects/issues/2)
 
 ## Where To Find Us
 
