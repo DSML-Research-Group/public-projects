@@ -27,9 +27,10 @@ Crypto Business Cycle | Measure cyclical activity in blockchain data and determi
 
 In addition to our github repository, you can also stay in touch with us in the following ways:
 
- - 💻Homepage: [www.dsmlresearch.org](https://www.dsmlresearch.org)
- - 🏢LinkedIn: [Our LinkedIn Profile](https://www.linkedin.com/company/dsml-research-group/mycompany/?viewAsMember=true)
- - 🎤Discord: [Our Discord Server](https://discord.gg/GjJ5gHzR)
+ - 💻 Homepage: [www.dsmlresearch.org](https://www.dsmlresearch.org)
+ - 🏢 LinkedIn: [Our LinkedIn Profile](https://www.linkedin.com/company/dsml-research-group/mycompany/?viewAsMember=true)
+ - 🎤 Discord: [Our Discord Server](https://discord.gg/GjJ5gHzR)
+ - 🧑‍🤝‍🧑 Meetup: [Our meetup Group](https://www.meetup.com/data-science-machine-learning-research-group/)
 
 <!--
 
